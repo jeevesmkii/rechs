@@ -9,10 +9,11 @@ problems I'll try to help, but no guarantees.
 
 This script will only work on Windows machines. It requires the following:
 
-* A perl interpreter, ActivePerl is good. (http://www.activestate.com/activeperl)
+* A perl interpreter, Strawberry Perl is probably the best option. (http://strawberryperl.com/)
 * The following perl modules from CPAN:
 	* Win32::API
 	* POE
+	* FindBin::Real
 * OBS classic (https://obsproject.com/) This will probably NOT work with the newer OBS studio, or if it does it's a massive coincidence.  
 
 
